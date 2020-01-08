@@ -6,3 +6,38 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+/*HEADERBAR*/
+#header{
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+  margin: auto;
+}
+
+#header-logo{
+  height: 100px;
+  width: 15%;
+  background-color: lightblue;
+  float: left;
+}
+
+#header-spacer{
+  height: 100px;
+  width: 70%;
+  background-color: aqua;
+  float: left;
+}
+
+#header-hamburger{
+  height: 100px;
+  width: 15%;
+  background-color: darkcyan;
+  float: left;
+}
+/*HEADERBAR*/
+
+
+
+
